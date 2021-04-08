@@ -13,4 +13,4 @@ message = "Anda berhak mengajukan kredit pembelian" if umur >= 28 else "Anda bel
 print(message)
 
 # Menggunakan ternary operators ini hanya memerlukan 3 komponen, variabel, message dan print untuk message
-# Logic disematkan di message
+# Logic disematkan pada message
