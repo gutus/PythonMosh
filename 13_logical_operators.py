@@ -2,7 +2,9 @@
 # Ada 3 operator yg dapat dimanfaatkan yaitu and, or dan not
 # Contoh pengajuan kredit
 
+# Variabel input pendapatan_tinggi dikonversi menjadi Boolean (True/False)
 pendapatan_tinggi = bool(input("Apakah pendapatan anda tinggi? (True/False)"))
+# Dikonversi menjadi Boolean agar operator tidak sembarangan memasukkan nilai variabel.
 score_credit = bool(input("Apakah score credit anda baik? (True/False)"))
 # CASE1
 print("CASE 1")
