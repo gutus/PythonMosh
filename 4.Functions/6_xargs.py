@@ -26,5 +26,11 @@ print("XARGS untuk fungsi penjumlahan addition(2,3,4,5)")
 print(addition(2, 3, 4, 5))  # Akan menghasilkan penjumlahan 2+3+4+5 = 14
 print("XARGS untuk fungsi penjumlahan addition(3,4,5,6,7)")
 print(addition(3, 4, 5, 6, 7))  # Akan menghasilkan penjumlahan 3+4+5+6+7 = 25
+print("\n\n")
+# Sample 3 Fungsi Iterable dari Argumen pada Fungsi daftar(x,y,z,a)
 
-
+print("Sample 3 Iterable deret angka dengan xargs >>> daftar(2,3,4,5,6,7)")
+def daftar(*angka):
+    for bilangan in angka:
+        print(bilangan)
+daftar(2,3,4,5,6,7)
