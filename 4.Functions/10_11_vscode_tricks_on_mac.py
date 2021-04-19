@@ -14,6 +14,7 @@ print(multiply(1, 2, 3))
 # print(multiply(1, 2, 3))
 
 
+# Untuk memindah beberapa baris kode, blok baris, tekan ALT + UP/DOWN
 # Untuk berpindah kursor ke awal/akhir baris menggunakan CMD + LEFT/RIGHT
 # Untuk berpindah kursor ke atas/bawah program menggunakan CMD + UP/DOWN
 # Untuk mengetik nama variabel cukup ketik beberapa karakter yg ada di variabel dan auto completion akan muncul, tinggal tekan ENTER
