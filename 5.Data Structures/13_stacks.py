@@ -1,4 +1,5 @@
 # STACKS
+
 browsing_session = []
 browsing_session.append(1)
 browsing_session.append(2)
