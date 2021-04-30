@@ -1,4 +1,4 @@
-master\x = 10
+x = 10
 y = 11
 
 z = x
@@ -17,3 +17,5 @@ print (f"Nilai a sebelum di-swap adalah {a}, dan nilai b awalnya {b}.")
 a, b = 11, 10
 print("Setelah diswap nilai a menjadi b dan nilai b menjadi a maka:")
 print(f"Nilai a saat ini adalah {a} dan nilai b menjadi {b}")
+
+#Swaping
