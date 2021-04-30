@@ -8,7 +8,7 @@ print(type(point))  # Untuk mengecek type data dari variable point
 # Tuples juga bisa dikenakan operasi matematik
 # Perkalian
 point2 = point * 3
-print(f"List point (1,2)* 3 menjadi >>> ", point2)
+print(f"List point (1,2) * 3 menjadi >>> ", point2)
 # Penjumlahan
 point3 = point2 + (3, 4)
-print(f"Penjumlahan point2 + )3,4) menjadi >>>> ", point3)
+print(f"Penjumlahan point2 + (3,4) menjadi >>>> ", point3)
