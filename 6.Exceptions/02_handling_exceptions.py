@@ -18,7 +18,7 @@ except ValueError as ex:
     print("Masukkan nilai berupa angka saja, jangan gunakan huruf.")
     print(ex)
     print(type(ex))
-else:
+else: #Line ini akan dieksekusi jika line try: valid
     print("Bagus, anda mengisi dengan tepat, tidak ada error yg terdeteksi")
 print("Program 2 telah selesai dijalankan")
 
