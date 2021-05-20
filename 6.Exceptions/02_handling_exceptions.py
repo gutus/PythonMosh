@@ -1,5 +1,5 @@
 ###Handling Exceptions
-#ketika program tidak dipersiapkan untuk menerima, begitu terdapat error maka proram akan crash
+#ketika program tidak dipersiapkan untuk mengeluarkan exception, begitu terdapat error maka proram akan crash
 
 # Sample program 1
 try:
