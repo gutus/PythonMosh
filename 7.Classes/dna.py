@@ -2,7 +2,7 @@
 # A simple animation of a DNA double-helix. Press Ctrl-C to stop.
 # Inspired by matoken https://asciinema.org/a/155441
 # View this code at https://nostarch.com/big-book-small-python-projects
-# Tags: short, artistic, scrolling, science"""
+# Tags: short, artistic, scrolling, science""
 
 import random
 import sys
