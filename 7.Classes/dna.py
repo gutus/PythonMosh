@@ -8,7 +8,7 @@ import random
 import sys
 import time
 
-PAUSE = 0.15  # (!) Try changing this to 0.5 or 0.0.
+PAUSE = 0.35  # (!) Try changing this to 0.5 or 0.0.
 
 # These are the individual rows of the DNA animation:
 ROWS = [
