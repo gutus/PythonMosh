@@ -26,6 +26,7 @@ f = Fish()
 print(isinstance(m, Animal))
 # isinstance >>> Apakah m adalah bagian dari instance Mammal
 print(isinstance(m, Mammal))
+print(isinstance(m, object))
 # issubclass >>> Apakah Fish adalah bagian dari subclass Animal
 print(issubclass(Fish, Animal))
 # issubclass >>> Apakah Fish adalah bagian dari subclass Mammal
