@@ -30,7 +30,11 @@ print("\n\n")
 # Sample 3 Fungsi Iterable dari Argumen pada Fungsi daftar(x,y,z,a)
 
 print("Sample 3 Iterable deret angka dengan xargs >>> daftar(2,3,4,5,6,7)")
+
+
 def daftar(*angka):
     for bilangan in angka:
         print(bilangan)
-daftar(2,3,4,5,6,7)
+
+
+daftar(2, 3, 4, 5, 6, 7)
