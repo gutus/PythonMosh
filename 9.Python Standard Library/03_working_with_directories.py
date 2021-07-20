@@ -31,3 +31,9 @@ print(file_txt)
 print("\nUntuk memunculkan semua jenis file menggunakan fungsi berikut p for p in path.glob(\"*.*\") ")
 file_all = [p for p in path.glob("*.*")]
 print(file_all)
+print("\nUntuk memunculkan semua jenis file menggunakan fungsi berikut p for p in path.glob(\"**/*.*\") ")
+file_all2 = [p for p in path.glob("**/*.*")]
+print(file_all2)
+print("\nUntuk memunculkan jenis file .PY menggunakan fungsi recursive glob berikut p for p in path.rglob(\"*.py\") ")
+file_all3 = [p for p in path.rglob("*.py")]
+print(file_all3)
