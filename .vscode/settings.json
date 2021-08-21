@@ -5,6 +5,7 @@
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
     "python.testing.pytestEnabled": true,
-    "python.linting.enabled": false,
-    "git.enableSmartCommit": true
+    "python.linting.enabled": true,
+    "git.enableSmartCommit": true,
+    "python.linting.pylintEnabled": true
 }
